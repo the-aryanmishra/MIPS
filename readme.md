@@ -89,7 +89,3 @@ Computes the factorial of a number iteratively.
 3. Store the final result in memory.
 
 ---
-
-## Contributors
-- **Divyam Sareen** (IMT2022010)
-- **Aryan Mishra** (IMT2022502)
