@@ -103,7 +103,3 @@ Computes the factorial of a number iteratively.
 - **Performance**: Faster execution due to overlapping, though may experience delays due to hazards.
 
 ---
-
-## Contributors
-- **Divyam Sareen** (IMT2022010)
-- **Aryan Mishra** (IMT2022502)
